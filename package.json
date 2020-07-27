@@ -16,7 +16,5 @@
     "url": "https://github.com/construktivist/hello-vue/issues"
   },
   "homepage": "https://github.com/construktivist/hello-vue#readme",
-  "dependencies": {
-    "@vue/cli": "^4.4.6"
-  }
+  "dependencies": {}
 }
